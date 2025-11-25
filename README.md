@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+Juliun Menasco # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
